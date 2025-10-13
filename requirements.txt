@@ -1,0 +1,23 @@
+opencv-python
+sympy
+tabulate
+tiktoken
+timeout-decorator
+tqdm
+validators
+xlsxwriter
+# new
+sacrebleu
+moviepy==1.0.3
+path
+decord
+sty
+pandas
+matplotlib
+ipdb
+richrequirements
+vllm==0.9.0
+transformers==4.52.4
+peft==0.15.2
+torch==2.7.0
+autoawq==0.2.6
