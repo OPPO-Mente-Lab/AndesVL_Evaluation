@@ -23,7 +23,7 @@
 
 #### Performance Discrepancies
 Model performance may vary across different execution environments. Such discrepancies might be related to changes in versions of `transformers`, `cuda`, `torch`, etc.
-It is recommended to prioritize checking the locally generated records `_.xlsx` or evaluation records `__.xlsx` upon completion, which can provide a better understanding of the evaluation results and help identify issues.
+It is recommended to prioritize checking the locally generated records `{model}_{dataset}.xlsx` or evaluation records `{model}_{dataset}_{judge_model}.xlsx` upon completion, which can provide a better understanding of the evaluation results and help identify issues.
 
 ## Acknowledgement
 
