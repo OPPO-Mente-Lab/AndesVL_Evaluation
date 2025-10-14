@@ -1,4 +1,8 @@
-# The Evaluation Toolkit for AndesVL Series Models
+<div align="center">
+  <h1>The Evaluation Toolkit for AndesVL Series Models</h1>
+<a href='https://arxiv.org/abs/2510.11496'><img src='https://img.shields.io/badge/arXiv-2510.11496-b31b1b.svg'></a> &nbsp;
+<a href='https://huggingface.co/OPPOer'><img src='https://img.shields.io/badge/🤗%20HuggingFace-AndesVL-ffd21f.svg'></a>
+</div>
 
 # 快速开始
 
@@ -24,4 +28,4 @@
 
 ## Acknowledgement
 
-The project build upon [VLMEvalKit](https://github.com/open-compass/VLMEvalKit), which you can visit for relevant details. 
+该项目基于 [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) 构建，你可以访问它以获取相关详情。 
