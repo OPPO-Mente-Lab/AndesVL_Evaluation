@@ -10,7 +10,7 @@
 We are very excited to introduce **AndesVL**, a state-of-the-art model designed for mobile-side applications with 0.6B to 4B parameters.
 
 ## 🔥 News
-- 2025/10/13: **AndesVL Technical Report** is now available at [arxiv](https://arxiv.org/abs/2509.14033) and **AndesVL Models** is  available at [huggingface](https://huggingface.co/collections/OPPOer/andesvl-68ecb641e4b854cb0c7c2e7d).
+- 2025/10/13: **AndesVL Technical Report** is now available at [arxiv](https://arxiv.org/abs/2510.11496) and **AndesVL Models** is  available at [huggingface](https://huggingface.co/collections/OPPOer/andesvl-68ecb641e4b854cb0c7c2e7d).
 
 ## 🎬 Quick Start
 Inference using the non-thinking version of AndesVL
