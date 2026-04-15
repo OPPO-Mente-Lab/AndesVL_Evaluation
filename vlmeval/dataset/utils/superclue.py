@@ -68,10 +68,10 @@ elif openai_host == "lmdeploy":
     openai_api_key = "EMPTY"
     openai_api_base = "http://0.0.0.0:23333/v1"
 elif openai_host == "openai":
-    app_id = "RongZhiLab"
-    app_secret = "3qeBDOdPLgrOUPU7NE3IAMdOxQ6E1Ksh4oMmqMPwhTI="
+    app_id = "your ak"
+    app_secret = "your sk"
     openai_api_key = app_id + "/" + app_secret
-    openai_api_base = "https://https://andesgpt-gateway.oppoer.me/converter/openai/v1"
+    openai_api_base = "your api base"
 elif openai_host == "qwenvl":
     openai_api_key = "sk-11fc5ee16efa4e89a2bd618e9a3ce49c"
     openai_api_base = "https://dashscope.aliyuncs.com/compatible-mode/v1"
