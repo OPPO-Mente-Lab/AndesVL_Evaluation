@@ -23,9 +23,9 @@ def sign(params, body, app_id, secret_key):
     # 5. 拼接认证字符串
     return auth_string_prefix + signature
 
-url = "https://https://andesgpt-gateway.oppoer.me/chat/v1/completions"
-ak='RongZhiLab'
-sk='3qeBDOdPLgrOUPU7NE3IAMdOxQ6E1Ksh4oMmqMPwhTI='
+url = "OPENAI_API_BASE"
+ak='Your AK'
+sk='your sk'
 
 
 class Claude_Wrapper(BaseAPI):
