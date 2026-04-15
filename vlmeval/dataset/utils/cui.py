@@ -112,8 +112,8 @@ def generate(instruction, img_path):
     req_id = "xxx"
     for i in range(10):#尝试10次
         try:
-            ak = "RongZhiLab"
-            sk = "3qeBDOdPLgrOUPU7NE3IAMdOxQ6E1Ksh4oMmqMPwhTI="
+            ak = "your ak"
+            sk = "your sk"
             body = {
                 "maxTokens": 4096, #需要指定，否则会被截断
                 "model": "gpt-4o", 
