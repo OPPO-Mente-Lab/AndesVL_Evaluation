@@ -242,7 +242,7 @@ class OpenAIWrapper(BaseAPI):
             temperature=temperature,
             **kwargs)
         if 'andesgpt' in self.api_base.lower():
-            headers['Authorization'] = sign(None, json.dumps(payload), "RongZhiLab", "3qeBDOdPLgrOUPU7NE3IAMdOxQ6E1Ksh4oMmqMPwhTI=")
+            headers['Authorization'] = sign(None, json.dumps(payload), "your ak", "your sk")
         response = requests.post(
             self.api_base,
             headers=headers, data=json.dumps(payload), timeout=self.timeout * 1.1)
